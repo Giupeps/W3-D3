@@ -1,0 +1,15 @@
+
+
+div{
+    box-sizing: border-box;
+    width: 60vw;
+    height:50vh;
+    border: 1px solid black;
+    border-radius: 5%;
+    margin: 0 auto;
+    text-align:center;
+    margin-top: 5vh;
+    background-color:bisque;
+    padding: 11vh;
+}
+
